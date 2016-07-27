@@ -34,7 +34,7 @@ return [0, 1].
 
 ### AC Code
 
-```
+```javascript
 class Solution 
 {
     func twoSum(nums: [Int], _ target: Int) -> [Int] 
