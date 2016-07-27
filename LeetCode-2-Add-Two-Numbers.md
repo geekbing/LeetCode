@@ -106,7 +106,7 @@ next2 = (next2 != nil) ? next2?.next : nil
 
 ### AC Code  
 
-```
+```javascript
 class Solution
 {
     func addTwoNumbers(l1: ListNode?, _ l2: ListNode?) -> ListNode?
