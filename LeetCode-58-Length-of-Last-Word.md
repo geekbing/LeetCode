@@ -1,7 +1,8 @@
 ---
-title: LeetCode-58. Length of Last Word
-date: 2016-07-31 09:30:55
-tags:
+title: LeetCode-58. Length of Last Word  
+date: 2016-07-31 09:30:55  
+categories: Algorithm  
+tags: LeetCode  
 ---
 
 ### 58. Length of Last Word
