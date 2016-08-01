@@ -34,6 +34,12 @@ The result can be in any order.
 + 结果中的每一个元素出现的次数都应该和两个数组中出现的次数一样。
 + 返回的结果中的元素可以是任意的顺序。
 
+**更进一步:**
+
++ 如果给定数组已经排好序了呢？你会如何来优化你的算法？
++ 如果 nums1 相比 nums2 的元素个数少？哪种算法更好？
++ 如果 nums2 的元素存储在磁盘上，并且内存是有限的，不能将所有元素加载到内存，你会怎么做呢？
+
 ### The idea of solving process
 
 和[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)题只是返回交集的元素的个数稍有不同。大家可以看我之前[博客的解题思路](http://geekbing.com/2016/08/01/LeetCode-349-Intersection-of-Two-Arrays/)
