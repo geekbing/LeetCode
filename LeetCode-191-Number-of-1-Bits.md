@@ -1,8 +1,9 @@
 ---
 title: LeetCode-191. Number of 1 Bits  
 date: 2016-08-15 15:36:55  
-categories: Algorithm  
+categories: Algorithm
 tags: LeetCode  
+
 ---
 
 ## 191. Number of 1 Bits  
