@@ -57,9 +57,9 @@ Implement the following operations of a stack using queues.
 ```java
 public class MyQueue 
 {
-	private Queue<Integer> Q1 = new LinkedList<>();
+    private Queue<Integer> Q1 = new LinkedList<>();
     private Queue<Integer> Q2 = new LinkedList<>();
-	
+    
     // Push element x onto stack.
     public void push(int x) 
     {

@@ -53,8 +53,8 @@ Implement the following operations of a queue using stacks.
 
 ```java
 class MyQueue 
-{    
-    private Stack<Integer> stack1 = new Stack<Integer>();
+{
+	private Stack<Integer> stack1 = new Stack<Integer>();
 	private Stack<Integer> stack2 = new Stack<Integer>();
 	
     // Push element x to the back of queue.
